@@ -250,11 +250,8 @@ pytest
    GitHub Repository: https://github.com/jaydrava/cal-bread-app.git
 
 # 📋 Notes and Screenshots
-![alt text](screenshots/frontend.png)
-![alt text](screenshots/login_test.png)
-![alt text](screenshots/registration_test.png)
-![alt text](<screenshots/docker image.png>)
-![alt text](screenshots/github1.png)
+![alt text](screenshots/exponentiation.png)
+![alt text](screenshots/docker.png)
 ![alt text](screenshots/github.png)
 
 Check Reflection.pdf for more details about project and challenges
